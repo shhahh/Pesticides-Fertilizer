@@ -100,10 +100,10 @@ const Footer = () => {
                         <h4 className="text-white font-bold mb-4">Dual Excellence</h4>
                         <div className="grid grid-cols-2 gap-3 mb-6">
                             <div className="aspect-square rounded-xl overflow-hidden border border-white/10">
-                                <img src="/images/s3.jpeg" className="w-full h-full object-cover" alt="Honey" />
+                                <img src="/images/s.jpeg" className="w-full h-full object-cover" alt="Honey" />
                             </div>
                             <div className="aspect-square rounded-xl overflow-hidden border border-white/10">
-                                <img src="/images/s4.jpeg" className="w-full h-full object-cover" alt="Agri Care" />
+                                <img src="/images/s1.jpeg" className="w-full h-full object-cover" alt="Agri Care" />
                             </div>
                         </div>
                         <p className="text-[10px] text-stone-500 leading-relaxed italic">
