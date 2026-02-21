@@ -48,7 +48,7 @@ const Home = () => {
                         <div className="relative z-10 rounded-[2.5rem] overflow-hidden border border-white/10 shadow-2xl group">
                             <div className="aspect-square bg-stone-900 relative">
                                 <img
-                                    src="/src/assets/images/s11.jpeg"
+                                    src="/images/s11.jpeg"
                                     className="w-full h-full object-cover object-top group-hover:scale-110 transition-transform duration-1000"
                                     alt="Shahrukh Raza"
                                 />

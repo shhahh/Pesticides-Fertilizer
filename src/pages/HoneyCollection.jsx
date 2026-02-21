@@ -8,84 +8,84 @@ const HoneyCollection = () => {
             name: "Wildflower Raw Honey",
             tagline: "Floral Symphony",
             price: "₹450 / 500g",
-            image: "/src/assets/images/s.jpeg",
+            image: "/images/s.jpeg",
             benefits: ["Immunity Boost", "Natural Energy", "Rich in Pollen"]
         },
         {
             name: "Forest Sidr (Beri)",
             tagline: "The Royal Nectar",
             price: "₹850 / 500g",
-            image: "/src/assets/images/s1.jpeg",
+            image: "/images/s1.jpeg",
             benefits: ["Luxury Quality", "Medicinal", "Heart Health"]
         },
         {
             name: "Organic Eucalyptus",
             tagline: "Cooling & Herbal",
             price: "₹480 / 500g",
-            image: "/src/assets/images/s2.jpeg",
+            image: "/images/s2.jpeg",
             benefits: ["Cold Relief", "Anti-inflammatory", "Pure Raw"]
         },
         {
             name: "Mustard Raw Honey",
             tagline: "Golden Farm Essence",
             price: "₹380 / 500g",
-            image: "/src/assets/images/s3.jpeg",
+            image: "/images/s3.jpeg",
             benefits: ["Creamy Texture", "Quick Energy", "Locally Harvested"]
         },
         {
             name: "Litchi Blossom Honey",
             tagline: "Sweet Fruity Aroma",
             price: "₹520 / 500g",
-            image: "/src/assets/images/s4.jpeg",
+            image: "/images/s4.jpeg",
             benefits: ["Summer Delight", "Rich in Vitamin C", "Pure Aroma"]
         },
         {
             name: "Acacia Transparent",
             tagline: "Purity Unmatched",
             price: "₹750 / 500g",
-            image: "/src/assets/images/s5.jpeg",
+            image: "/images/s5.jpeg",
             benefits: ["Mild Flavor", "Weight Loss", "Low Glycemic"]
         },
         {
             name: "Kashmir White Honey",
             tagline: "Snow-capped Purity",
             price: "₹1200 / 500g",
-            image: "/src/assets/images/s6.jpeg",
+            image: "/images/s6.jpeg",
             benefits: ["Rare Find", "Antibacterial", "Gourmet Choice"]
         },
         {
             name: "Tulsi Infused Honey",
             tagline: "The Holy Healer",
             price: "₹550 / 500g",
-            image: "/src/assets/images/s7.jpeg",
+            image: "/images/s7.jpeg",
             benefits: ["Stress Relief", "Respiratory Health", "Ancient Wisdom"]
         },
         {
             name: "Tamarind Flower Honey",
             tagline: "Tangy Undertones",
             price: "₹490 / 500g",
-            image: "/src/assets/images/s8.jpeg",
+            image: "/images/s8.jpeg",
             benefits: ["Digestive Aid", "Potassium Rich", "Dark & Bold"]
         },
         {
             name: "Ajwain Raw Honey",
             tagline: "Spice Garden Pure",
             price: "₹580 / 500g",
-            image: "/src/assets/images/s9.jpeg",
+            image: "/images/s9.jpeg",
             benefits: ["Stomach Health", "Anti-septic", "High Active Enzyems"]
         },
         {
             name: "Neem Blossom Honey",
             tagline: "Nature's Detox",
             price: "₹620 / 500g",
-            image: "/src/assets/images/s10.jpeg",
+            image: "/images/s10.jpeg",
             benefits: ["Blood Purifier", "Glowing Skin", "Bittersweet Purity"]
         },
         {
             name: "Clover White Honey",
             tagline: "Meadow Fresh",
             price: "₹680 / 500g",
-            image: "/src/assets/images/s11.jpeg",
+            image: "/images/s11.jpeg",
             benefits: ["Smooth Finish", "All-purpose", "Rich in Pollen"]
         }
     ];

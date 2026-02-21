@@ -126,7 +126,7 @@ const FarmersCorner = () => {
                             >
                                 <div className="h-56 overflow-hidden relative">
                                     <img
-                                        src={`/src/assets/images/s${idx === 0 ? '' : idx}.jpeg`}
+                                        src={`/images/s${idx === 0 ? '' : idx}.jpeg`}
                                         alt={cat.name}
                                         className="w-full h-full object-cover object-center group-hover:scale-110 transition-transform duration-700"
                                     />
