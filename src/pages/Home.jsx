@@ -49,13 +49,13 @@ const Home = () => {
                             <div className="aspect-square bg-stone-900 relative">
                                 <img
                                     src="/images/master.jpeg"
-                                    className="w-full h-full object-cover object-[center_-170px] group-hover:scale-110 transition-transform duration-1000"
+                                    className="w-full h-full object-cover object-[center_-50px] md:object-[center_-170px] group-hover:scale-110 transition-transform duration-1000"
                                     alt="Master Sharafat Hussain"
                                 />
                                 <div className="absolute inset-0 bg-stone-950/40 group-hover:bg-stone-950/20 transition-colors flex items-center justify-center p-8">
-                                    <div className="relative z-20 text-center translate-y-[130px]">
-                                        <span className="block text-3xl md:text-4xl font-display font-bold text-white mb-2 drop-shadow-2xl">Master Sharafat Hussain</span>
-                                        <span className="text-brand-amber-400 font-bold tracking-[0.2em] uppercase text-sm">Beekeeper Since 1985</span>
+                                    <div className="relative z-20 text-center translate-y-[110px] md:translate-y-[130px]">
+                                        <span className="block text-2xl md:text-3xl lg:text-4xl font-display font-bold text-white mb-2 drop-shadow-2xl">Master Sharafat Hussain</span>
+                                        <span className="text-brand-amber-400 font-bold tracking-[0.2em] uppercase text-xs md:text-sm">Beekeeper Since 1985</span>
                                     </div>
                                 </div>
                             </div>
