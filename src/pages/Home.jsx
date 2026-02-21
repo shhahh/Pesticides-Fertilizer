@@ -49,7 +49,7 @@ const Home = () => {
                             <div className="aspect-square bg-stone-900 relative">
                                 <img
                                     src="/images/master.jpeg"
-                                    className="w-full h-full object-cover object-[center_top] group-hover:scale-110 transition-transform duration-1000"
+                                    className="w-full h-full object-cover object-[center_-170px] group-hover:scale-110 transition-transform duration-1000"
                                     alt="Master Sharafat Hussain"
                                 />
                                 <div className="absolute inset-0 bg-stone-950/40 group-hover:bg-stone-950/20 transition-colors flex items-center justify-center p-8">
