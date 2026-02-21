@@ -8,7 +8,7 @@ const OurStory = () => {
             year: "1985 - 2010",
             title: "The Teaching Years",
             location: "Unnao, UP",
-            desc: "Shahrukh Raza served as a Govt. Head Master, but his passion lay in the fields.",
+            desc: "Master Sharafat Hussain served as a Govt. Head Master, but his passion lay in the fields.",
             icon: <Award className="text-brand-amber-500" />
         },
         {

@@ -27,7 +27,7 @@ const Home = () => {
                             <span className="text-brand-green-500">Modern Farms</span>
                         </h1>
                         <p className="text-stone-400 text-lg md:text-xl mb-10 max-w-2xl">
-                            Rooted in the legacy of Shahrukh Raza, we bring you 100% Raw Honey and expert-driven Agri-Solutions.
+                            Rooted in the legacy of Master Sharafat Hussain, we bring you 100% Raw Honey and expert-driven Agri-Solutions.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
                             <Link to="/honey" className="px-8 py-4 bg-brand-amber-500 text-stone-900 font-bold rounded-xl flex items-center justify-center hover:bg-brand-amber-600 transition-all group shadow-xl shadow-brand-amber-500/20">
@@ -48,13 +48,13 @@ const Home = () => {
                         <div className="relative z-10 rounded-[2.5rem] overflow-hidden border border-white/10 shadow-2xl group">
                             <div className="aspect-square bg-stone-900 relative">
                                 <img
-                                    src="/images/s11.jpeg"
-                                    className="w-full h-full object-cover object-top group-hover:scale-110 transition-transform duration-1000"
-                                    alt="Shahrukh Raza"
+                                    src="/images/master.jpeg"
+                                    className="w-full h-full object-cover object-[center_top] group-hover:scale-110 transition-transform duration-1000"
+                                    alt="Master Sharafat Hussain"
                                 />
                                 <div className="absolute inset-0 bg-stone-950/40 group-hover:bg-stone-950/20 transition-colors flex items-center justify-center p-8">
                                     <div className="relative z-20 text-center translate-y-[130px]">
-                                        <span className="block text-3xl md:text-4xl font-display font-bold text-white mb-2 drop-shadow-2xl">Shahrukh Raza</span>
+                                        <span className="block text-3xl md:text-4xl font-display font-bold text-white mb-2 drop-shadow-2xl">Master Sharafat Hussain</span>
                                         <span className="text-brand-amber-400 font-bold tracking-[0.2em] uppercase text-sm">Beekeeper Since 1985</span>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@ const Home = () => {
                         The Journey of a <span className="text-brand-amber-500">Teacher</span> & <span className="text-brand-amber-500">Beekeeper</span>
                     </motion.h2>
                     <p className="text-stone-400 text-lg max-w-3xl mx-auto mb-12">
-                        Shahrukh Raza devoted his life to education and bees. Travelling across Rajasthan, Uttarakhand, and UP with his honeybee boxes, he produced honey that the world rarely sees in its pure form.
+                        Master Sharafat Hussain devoted his life to education and bees. Travelling across Rajasthan, Uttarakhand, and UP with his honeybee boxes, he produced honey that the world rarely sees in its pure form.
                     </p>
                     <Link to="/story" className="text-brand-amber-400 font-bold hover:underline inline-flex items-center">
                         Read Our Heritage Story <ArrowRight className="ml-2 w-4 h-4" />
